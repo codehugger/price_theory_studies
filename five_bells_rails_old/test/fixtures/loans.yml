@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  owner_account.references: MyString
+  borrower_account: one
+  capital: 1
+  interest: 1
+  duration: 1
+  frequency: 1
+
+two:
+  owner_account.references: MyString
+  borrower_account: two
+  capital: 1
+  interest: 1
+  duration: 1
+  frequency: 1

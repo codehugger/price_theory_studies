@@ -1,0 +1,1 @@
+<%= debug(World.first.customer_banks.first.deposit_accounts.group(:owner_type).sum(:deposit)) %>

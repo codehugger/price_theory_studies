@@ -1,0 +1,45 @@
+{
+  "name": "five_bells",
+  "version": "1.0.0",
+  "description": "Five Bells Financial Simulation Environment",
+  "main": "babel.config.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "@rails/webpacker": "^4.0.7",
+    "bootstrap": "4.3.1",
+    "chart.js": "^2.9.2",
+    "chartkick": "^3.2.0",
+    "gentelella": "^1.4.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0",
+    "stimulus": "^1.1.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codehugger/five_bells.git"
+  },
+  "keywords": [
+    "simulation",
+    "economics",
+    "agent",
+    "finance",
+    "distributed",
+    "system"
+  ],
+  "author": "Bjarki Gudlaugsson",
+  "email": "bjarki03@ru.is",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/codehugger/five_bells/issues"
+  },
+  "homepage": "https://github.com/codehugger/five_bells#readme"
+}

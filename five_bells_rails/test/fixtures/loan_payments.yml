@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  loan: one
+  payment_no: MyString
+  capital: 1
+  interest: 1
+  transaction: one
+  payment_type: MyString
+
+two:
+  loan: two
+  payment_no: MyString
+  capital: 1
+  interest: 1
+  transaction: two
+  payment_type: MyString
