@@ -1,0 +1,680 @@
+repo_name: codehugger/price_theory_studies
+report_id: bc1368f6a680aa0564a760ed764d1936
+repo_type: Public
+timestamp: '2023-11-09T13:08:30+00:00'
+requested_by: codehugger
+provider: github
+branch: master
+detected_tools_count: 51
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: Elixir
+  description: Dynamic, functional language designed for building scalable and maintainable
+    applications
+  website_url: http://elixir-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1974/drop.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source: Repo Metadata
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 4.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: five_bells_rails/yarn.lock
+  detection_source: five_bells_rails_old/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: Chart.js
+  description: Simple, clean and engaging charts for designers and developers
+  website_url: http://www.chartjs.org/
+  version: 2.9.3
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
+  detection_source_url: five_bells_rails/yarn.lock
+  detection_source: five_bells_rails_old/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: Phoenix Framework
+  description: Most web frameworks make you choose between speed and a productive
+    environment. Phoenix gives you both.
+  website_url: http://www.phoenixframework.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/3262/-s9uoLIN.png
+  detection_source: threadneedle-elixir/apps/threadneedle_web/mix.exs
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: Rails
+  description: Web development that doesn't hurt
+  website_url: http://rubyonrails.org/
+  version: 6.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/990/x57_Lorv.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: Stimulus
+  description: A modest JavaScript framework for the HTML you already have, by Basecamp
+  website_url: https://github.com/stimulusjs/stimulus/
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/8220/32970053.png
+  detection_source_url: five_bells_rails/yarn.lock
+  detection_source: five_bells_rails_old/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source: threadneedle-elixir/apps/threadneedle_web/assets/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: gentelella
+  description: Free Bootstrap 3 Admin Template
+  website_url: https://github.com/puikinsh/gentelella
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source: five_bells_rails_old/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: five_bells_rails/yarn.lock
+  detection_source: five_bells_rails_old/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: Active Admin
+  description: The administration framework for Ruby on Rails applications
+  website_url: http://activeadmin.info/
+  version: 2.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/1468/no-img-open-source.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source: threadneedle-elixir/apps/threadneedle/mix.exs
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.6.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: elixir_learning/functional_web_development_with_elixir_otp_and_phoenix/islands_interface/assets/package-lock.json
+  detection_source: threadneedle-elixir/apps/threadneedle_web/assets/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: Capybara
+  description: Acceptance test framework for web applications
+  website_url: http://jnicklas.github.io/capybara/
+  version: 3.29.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2595/capybara.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: Cowboy
+  description: 'Small, fast, modular HTTP server written in Erlang. '
+  website_url: https://github.com/ninenines/cowboy
+  version: 2.6.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/2738/1166740.png
+  detection_source_url: elixir_learning/functional_web_development_with_elixir_otp_and_phoenix/islands_interface/mix.lock
+  detection_source: threadneedle-elixir/apps/threadneedle_web/mix.exs
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source: threadneedle-elixir/apps/threadneedle_web/assets/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Puma
+  description: A Modern, Concurrent Web Server for Ruby
+  website_url: http://puma.io/
+  version: 4.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1055/favicon.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: Rails Spring
+  description: Rails application preloader
+  website_url: https://github.com/rails/spring
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Rails Testing
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: elixir_learning/functional_web_development_with_elixir_otp_and_phoenix/islands_interface/assets/package-lock.json
+  detection_source: threadneedle-elixir/apps/threadneedle_web/assets/webpack.config.js
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: Webpacker
+  description: Use Webpack to manage app-like JavaScript modules in Rails (by Rails)
+  website_url: https://github.com/rails/webpacker
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails_old/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source: five_bells_rails_old/yarn.lock
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: five_bells_rails_old/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: Twilio SendGrid
+  description: Email Delivery. Simplified.
+  website_url: http://sendgrid.com
+  open_source: false
+  hosted_saas: true
+  category: Communications
+  sub_category: Transactional Email
+  image_url: https://img.stackshare.io/service/43/kQ_6nwmP.jpg
+  detection_source: five_bells_rails_old/config/environments/production.rb
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: Bootsnap
+  description: Boot large ruby/rails apps faster, by Shopify
+  website_url: https://github.com/shopify/bootsnap
+  version: 1.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Ruby Utilities
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: PonyDebugger
+  description: Remote network and data debugging for your native iOS app using Chrome
+    Developer Tools
+  website_url: https://github.com/square/PonyDebugger
+  open_source: true
+  hosted_saas: false
+  category: Mobile
+  sub_category: Mobile Runtime Inspector
+  image_url: https://img.stackshare.io/service/729/Logo.png
+  detection_source: threadneedle-elixir/apps/threadneedle_web/assets/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: activeadmin
+  description: The administration framework for Ruby on Rails
+  package_url: https://rubygems.org/activeadmin
+  version: 2.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19101/default_f10a51b2c9e0635e3bca0fa1f65cc762b587ef6f.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: ancestry
+  description: Ancestry allows the records of a ActiveRecord model to be organized
+    in a tree structure, using a single, intuitively formatted database column
+  package_url: https://rubygems.org/ancestry
+  version: 3.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19520/default_6fb1d8b9aef837cfaccc78fd09408418629c0be8.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: byebug
+  description: Byebug is a Ruby debugger
+  package_url: https://rubygems.org/byebug
+  version: 11.0.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18849/default_887cb273c504fac90d07fc552b7b223fbb32ca39.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: jbuilder
+  description: Create JSON structures via a Builder-style DSL
+  package_url: https://rubygems.org/jbuilder
+  version: 2.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19105/default_fca7ffebc4c078263714788a3e4853bf74bde297.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: listen
+  description: The Listen gem listens to file modifications and notifies you about
+    the changes
+  package_url: https://rubygems.org/listen
+  version: 3.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18942/default_a51418802dbfb428c729400211798b5046fe4140.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: pg
+  description: Pg is the Ruby interface to the {PostgreSQL RDBMS}[http://www.postgresql.org/]
+  package_url: https://rubygems.org/pg
+  version: 1.1.4
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18855/default_d343d9a7c573fa5dcbeb4d3c43d2ffe4afa82cc1.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: pry-rails
+  description: Use Pry as your rails console
+  package_url: https://rubygems.org/pry-rails
+  version: 0.3.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19013/default_3667c8b28d9ec2ad93884ef523ec8f357774f78e.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: sass-rails
+  description: Sass adapter for the Rails asset pipeline
+  package_url: https://rubygems.org/sass-rails
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18876/default_d416e715a80ce80ae31b87cff032f5873c8a9d2a.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: selenium-webdriver
+  description: WebDriver is a tool for writing automated tests of websites
+  package_url: https://rubygems.org/selenium-webdriver
+  version: 3.142.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18901/default_f0ad2b1ffbe10fdd866f9f8e5f812599d9e8085b.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: spring
+  description: Preloads your application so things like console
+  package_url: https://rubygems.org/spring
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19382/default_b8d34ca81aebc76c0b551b666a1d21df7e697544.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: tzinfo-data
+  description: TZInfo::Data contains data from the IANA Time Zone database packaged
+    as Ruby modules for use with TZInfo
+  package_url: https://rubygems.org/tzinfo-data
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19516/default_07037590725b871de29c1d2ebb4610950e953355.png
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: webdrivers
+  description: Run Selenium tests more easily with install and updates for all supported
+    webdrivers
+  package_url: https://rubygems.org/webdrivers
+  version: 4.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19420/default_16904f646648128b821ee8aabb068fa7a1b5025f.png
+  detection_source_url: five_bells_rails/Gemfile.lock
+  detection_source: five_bells_rails_old/Gemfile
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.6.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: elixir_learning/functional_web_development_with_elixir_otp_and_phoenix/islands_interface/assets/package-lock.json
+  detection_source: threadneedle-elixir/apps/threadneedle_web/assets/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: elixir_learning/functional_web_development_with_elixir_otp_and_phoenix/islands_interface/assets/package-lock.json
+  detection_source: threadneedle-elixir/apps/threadneedle_web/assets/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 8.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: elixir_learning/functional_web_development_with_elixir_otp_and_phoenix/islands_interface/assets/package-lock.json
+  detection_source: threadneedle-elixir/apps/threadneedle_web/assets/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: elixir_learning/functional_web_development_with_elixir_otp_and_phoenix/islands_interface/assets/package-lock.json
+  detection_source: threadneedle-elixir/apps/threadneedle_web/assets/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: mini-css-extract-plugin
+  description: Extracts CSS into separate files
+  package_url: https://www.npmjs.com/mini-css-extract-plugin
+  version: 0.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: elixir_learning/functional_web_development_with_elixir_otp_and_phoenix/islands_interface/assets/package-lock.json
+  detection_source: threadneedle-elixir/apps/threadneedle_web/assets/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: optimize-css-assets-webpack-plugin
+  description: A Webpack plugin to optimize \ minimize CSS assets
+  package_url: https://www.npmjs.com/optimize-css-assets-webpack-plugin
+  version: 4.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15964/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: elixir_learning/functional_web_development_with_elixir_otp_and_phoenix/islands_interface/assets/package-lock.json
+  detection_source: threadneedle-elixir/apps/threadneedle_web/assets/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: popper.js
+  description: A kickass library to manage your poppers
+  package_url: https://www.npmjs.com/popper.js
+  version: 1.16.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16357/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source_url: five_bells_rails/yarn.lock
+  detection_source: five_bells_rails_old/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: uglifyjs-webpack-plugin
+  description: UglifyJS plugin for webpack
+  package_url: https://www.npmjs.com/uglifyjs-webpack-plugin
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15953/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: elixir_learning/functional_web_development_with_elixir_otp_and_phoenix/islands_interface/assets/package-lock.json
+  detection_source: threadneedle-elixir/apps/threadneedle_web/assets/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 2.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: elixir_learning/functional_web_development_with_elixir_otp_and_phoenix/islands_interface/assets/package-lock.json
+  detection_source: threadneedle-elixir/apps/threadneedle_web/assets/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 3.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: five_bells_rails/yarn.lock
+  detection_source: five_bells_rails_old/package.json
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2019-12-07 21:57:14.000000000 Z
